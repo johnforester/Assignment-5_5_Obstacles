@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fall Zone
+  - Pick Up
+  - Projectile
+  - Ramp Start
+  - Goal
   layers:
   - Default
   - TransparentFX

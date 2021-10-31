@@ -10,7 +10,7 @@ public class Oscillator : MonoBehaviour
     [SerializeField] float movementDistance;
 
     [Header("Movement positions")]
-    public Vector3 startingPosition;
+    private Vector3 startingPosition;
     public Vector3 positiveEnd;
     public Vector3 negativeEnd;
 
